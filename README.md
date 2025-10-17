@@ -11,11 +11,4 @@ letras de canciones.
 - Marcos Vega, Marcel Barrios, Juan Alonso
 - Archivo: LICENSE
 - MIT License
-...
-- /vendor/
-- /.env
-- *.log
-- *.bak
-- .DS_Store
-- node_modules/
 
