@@ -8,14 +8,14 @@ letras de canciones.
 - `tests/` → Pruebas unitarias
 - `composer.json` → Gestión de dependencias PHP
 ## Autor
-Marcos Vega, Marcel Barrios
-Archivo: LICENSE
-MIT License
+- Marcos Vega, Marcel Barrios, Juan Alonso
+- Archivo: LICENSE
+- MIT License
 ...
-/vendor/
-/.env
-*.log
-*.bak
-.DS_Store
-node_modules/
+- /vendor/
+- /.env
+- *.log
+- *.bak
+- .DS_Store
+- node_modules/
 
